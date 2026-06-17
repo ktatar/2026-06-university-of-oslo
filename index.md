@@ -111,16 +111,6 @@ Notes on Reproducibility
 
 #### Latent Timbre Synthesis
 
-Interpolations in the latent space of the VAE
-
-![align-left width:550](img/inter_latent_space_scatter.png)
-
-![align-right width:550](img/full_latent_space_scatter.png)
-
----
-
-#### Latent Timbre Synthesis
-
 Emerging themes from the user study with 9 composers: 
 
 - Iterative sound design in musical composition
