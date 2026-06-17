@@ -89,8 +89,7 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 
 ---
 
-
-Deep Learning Architectures are not neutral.
+# <!--fit-->Deep Generative Modelling is not neutral.
 
 ---
 
