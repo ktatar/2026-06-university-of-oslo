@@ -10,7 +10,7 @@ paginate: true
 # Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
 
 <small> These slides are live at: 
-https://ktatar.github.io/2026-03-docent-lecture/ </small>
+https://ktatar.github.io/2026-06-university-of-oslo</small>
 
 ![width:150](img/qrcode.png)
 
