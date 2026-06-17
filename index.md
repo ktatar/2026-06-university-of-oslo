@@ -85,6 +85,16 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 
 #### Latent Timbre Synthesis
 
+Interpolations in the latent space of the VAE
+
+![align-left width:550](img/inter_latent_space_scatter.png)
+
+![align-right width:550](img/full_latent_space_scatter.png)
+
+---
+
+#### Latent Timbre Synthesis
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJm-N_-ySe0?si=WDxjA7frj4Jj3COq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -109,6 +119,10 @@ Notes on Reproducibility
 
 ---
 
+# <!--fit-->Most Musical AI research are ad-hoc efforts. 
+
+---
+
 #### Latent Timbre Synthesis
 
 Emerging themes from the user study with 9 composers: 
@@ -123,7 +137,6 @@ Emerging themes from the user study with 9 composers:
 - User Inteface
 - Tool Deficiencies
 - Continued use
-
 
 ---
 
