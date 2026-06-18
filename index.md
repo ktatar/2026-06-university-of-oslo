@@ -497,6 +497,7 @@ The six takeaways from our conceptualization of neural audio instruments:
 </div>
 
 <small>Liu, H. X., Holopainen, J., Tatar, K. Understanding Human–LLM Co-Storytelling as Interactive Narrative Play: Evidence from AI Dungeon. Submitted to ACM CHI PLAY 2026.</small>
+
 ---
 
 #### Understanding Co-Storytelling with Large Language Models (LLMs)
