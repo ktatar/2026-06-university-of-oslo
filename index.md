@@ -29,7 +29,6 @@ https://ktatar.github.io/2026-06-university-of-oslo</small>
 | Canada |Social Sciences and Humanities Research Council| 2014-2020 |
 | Canada |Natural Sciences and Engineering Research Council| 2014- 2019 |
 
-
 ---
 
 ## Research Themes
@@ -95,7 +94,7 @@ Interpolations in the latent space of the VAE
 
 #### Latent Timbre Synthesis
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJm-N_-ySe0?si=WDxjA7frj4Jj3COq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rfq82eKE-34?si=1yz17QB_0yfCKHvS&amp;start=2160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -157,7 +156,9 @@ Emerging themes from the user study with 9 composers:
 
 #### RawAudio Variational Autoencoder
 
-![align-center width:900](img/smc-poster-3-strategies.jpg)
+![align-center width:800](img/smc-poster-3-strategies.jpg)
+
+<small> K. Tatar, K. Cotton, and D. Bisig, “Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures,” presented at the Proceedings of Sound and Music Computing 2023, 2023.</small>
 
 ---
 
@@ -449,73 +450,11 @@ The six takeaways from our conceptualization of neural audio instruments:
 
 ### AI in Computational Creativity and Game Design
 
-- Understanding Co-Storytelling with Large Language Models (LLMs)
 - Towards Computationally Creative Game Design
-- AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
 - Grounding Machine Creativity in Game Design Knowledge Representations
 
 ---
 
-### AI in Computational Creativity and Game Design
-
-- **Understanding Co-Storytelling with Large Language Models (LLMs)**
-- Towards Computationally Creative Game Design
-- AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
-- Grounding Machine Creativity in Game Design Knowledge Representations
-
----
-
-#### Understanding Co-Storytelling with Large Language Models (LLMs)
-
-<small> AI Dungeon (<https://play.aidungeon.com/>)  is a text-based adventure game that uses a large language model to generate dynamic and interactive storytelling experiences. Players can input any action or dialogue, and the AI responds with narrative developments, creating a unique story each time. This game exemplifies how LLMs can be used for co-storytelling, allowing players to collaboratively create narratives with the AI in real-time. </small>
-
-<div
-  style="
-    width: 100%;
-    height: 70vh;
-    max-height: 380px;
-    border: 1px solid #ddd;
-    border-radius: 12px;
-    overflow: hidden;
-    position: relative;
-  "
->
-  <iframe
-    src="https://play.aidungeon.com/"
-    title="AI Dungeon"
-    style="
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      border: 0;
-    "
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"
-    allowfullscreen
-  ></iframe>
-</div>
-
-<small>Liu, H. X., Holopainen, J., Tatar, K. Understanding Human–LLM Co-Storytelling as Interactive Narrative Play: Evidence from AI Dungeon. Submitted to ACM CHI PLAY 2026.</small>
----
-
-#### Understanding Co-Storytelling with Large Language Models (LLMs)
-
-![align-center width:800](img/llm-research-design.png)
-
----
-
-#### Understanding Co-Storytelling with Large Language Models (LLMs)
-
-- Users treat LLM co-storytelling as interactive play
-- AI imperfections (repetition, incoherence, abrupt shifts, incompleteness) came forward as creative affordances rather than failures.
-- Players perceive the AI as a semi-autonomous collaborator in a story that is written together
-- User experience revolves around shifting agency between the machine and the player
-- Users develop strategies for controlling or guiding the LLM via narrative perspective, prompts, and system features (Story Cards, World Info, Author’s Notes).
-- Multimodal storytelling is emerging, with image generation expanding narrative expression.
-- Highlights: Wabi-sabi (imperfection appreciation), anthropomorphism/power dynamics, and the game–tool duality of LLM storytelling systems.
-
----
 
 ### AI in Computational Creativity and Game Design
 
@@ -542,16 +481,9 @@ The co-occurrence network here visualizes the relationships and connections betw
 
 ---
 
-### AI in Computational Creativity and Game Design
+#### Previous work
 
-- Towards Computationally Creative Game Design
-- Understanding Co-Storytelling with Large Language Models (LLMs)
-- **AEGIS: Authentic Edge Growth In Sparsity for Link Prediction**
-- Grounding Machine Creativity in Game Design Knowledge Representations
-
----
-
-Previous work: Game Design Patterns (Bjork and Holopainen, 2005) includes 200 patterns.
+Game Design Patterns (Bjork and Holopainen, 2005) includes 200 patterns.
 
 <div
   style="
@@ -585,48 +517,6 @@ Bjork, S., and Holopainen, J. 2005. Patterns in game design, volume 11. Charles 
 
 ---
 
-**Classification** -> Embedding -> Generative Game Synthesis
-
-AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the classification problem as a link prediction task.
-
----
-
-#### AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
-
-<small>**Game Design Patterns** (Bjork and Holopainen, 2005) <https://gdpv.is></small>
-
-<div
-  style="
-    width: 100%;
-    height: 70vh;
-    max-height: 400px;
-    border: 1px solid #ddd;
-    border-radius: 12px;
-    overflow: hidden;
-    position: relative;
-  "
->
-  <iframe
-    src="https://gdpv.is"
-    title="AI Dungeon"
-    style="
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      border: 0;
-    "
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"
-    allowfullscreen
-  ></iframe>
-</div>
-
-<small>Liu, H. X., & Tatar, K. (2026). AEGIS: Authentic Edge Growth In Sparsity for Link Prediction in Edge-Sparse Bipartite Knowledge Graphs (arXiv:2509.22017). arXiv. https://doi.org/10.48550/arXiv.2509.22017</small>
-
-
----
-
 ### AI in Computational Creativity and Game Design
 
 - Understanding Co-Storytelling with Large Language Models (LLMs)
@@ -636,8 +526,7 @@ AEGIS: Authentic Edge Growth In Sparsity for Link Prediction approached the clas
 
 ---
 
-#### Grounding Machine Creativity in Game Design Knowledge Representations
-*Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints*
+#### LLM-Based Executable Synthesis of Goal Playable Game Design Patterns
 
 We investigated whether large language models can translate structured game‑design knowledge—specifically goal‑pattern  abstractions—into executable Unity game scenes
 
@@ -645,7 +534,42 @@ We investigated whether large language models can translate structured game‑de
 **Execution‑grounded evaluation pipeline:** An end‑to‑end workflow (LLM generation → Unity batch compilation → log‑based failure analysis) for assessing executable viability at scale.
 **Insights on human–machine knowledge boundaries:** Game design pattern knowledge injection increases structural complexity requirement at generation, revealing a tension in how domain knowledge should be injected into generative systems.
 
-<small>H. X. Liu and K. Tatar, “Grounding Machine Creativity in Game Design Knowledge Representations: Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints,” Mar. 16, 2026, arXiv: arXiv:2603.07101. doi: 10.48550/arXiv.2603.07101. </small>
+---
+
+#### LLM-Based Executable Synthesis of Goal Playable Game Design Patterns
+
+*Grounding Machine Creativity in Game Design Knowledge Representations: Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints*
+
+![align-right width:500](img/grounding_machine_creativity.png)
+
+**No-schema baseline:** the model receives the goal pattern as a natural language markdown document and generates a Unity Editor C# script directly. 
+**IR-conditioned pipeline:** generation proceeds in two steps—first generating an IR JSON from the pattern description, then translating it to C#—under three conditioning levels: free
+(no schema constraints), min (minimal field skeleton), and full (complete IR).
+
+<small>Liu, H. X., & Tatar, K. (2026). Grounding Machine Creativity in Game Design Knowledge Representations: Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints. [arXiv preprint arXiv:2603.07101.](https://arxiv.org/abs/2603.07101) </small>
+
+---
+
+#### LLM-Based Executable Synthesis of Goal Playable Game Design Patterns
+
+*Grounding Machine Creativity in Game Design Knowledge Representations: Empirical Probing of LLM-Based Executable Synthesis of Goal Playable Patterns under Structural Constraints*
+
+<p style="text-align: center;font-size:64px;color:red;"> NO COMPILATION SUCCESS </p>
+
+![align-right width:500](img/grounding_machine_creativity.png)
+
+**No-schema baseline:** the model receives the goal pattern as a natural language markdown document and generates a Unity Editor C# script directly. 
+**IR-conditioned pipeline:** generation proceeds in two steps—first generating an IR JSON from the pattern description, then translating it to C#—under three conditioning levels: free
+(no schema constraints), min (minimal field skeleton), and full (complete IR).
+
+---
+
+#### LLM-Based Executable Synthesis of Goal Playable Game Design Patterns
+
+*Mage: Multi-Axis Evaluation of LLM-Generated Executable Game Scenes Beyond Compile-Pass Rate*
+
+
+<small>Liu, H. X., & Tatar, K. (2026). Mage: Multi-Axis Evaluation of LLM-Generated Executable Game Scenes Beyond Compile-Pass Rate. Submitted to NeurIPS 2026. [arXiv preprint arXiv:2605.07342.](https://arxiv.org/abs/2605.07342)</small>
 
 ---
 
@@ -675,55 +599,11 @@ We investigated whether large language models can translate structured game‑de
 
 ---
 
-#### Caring Trouble and Musical AI
-
-<small><https://holly.plus></small>
-
-<div
-  style="
-    width: 100%;
-    height: 70vh;
-    max-height: 400px;
-    border: 1px solid #ddd;
-    border-radius: 12px;
-    overflow: hidden;
-    position: relative;
-  "
->
-  <iframe
-    src="https://holly.plus"
-    title="AI Dungeon"
-    style="
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      border: 0;
-    "
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade"
-    allowfullscreen
-  ></iframe>
-</div>
-
-<small>K. Cotton and K. Tatar, “Caring Trouble and Musical AI: Considerations towards a Feminist Musical AI,” in AIMC 2023, Aug. 2023. Accessed: Feb. 22, 2024. [Online]. Available: https://aimc2023.pubpub.org/pub/zwjy371l/release/1
-</small>
-
----
-
 ### Societal Impact of AI in Culture, Arts, and Music
 
 - A Shift in Artistic Practices through Artificial Intelligence
 - **Caring Trouble and Musical AI**
 - Bringing the Body Back to AI Voice and Speech Technologies
-
----
-
-#### Caring Trouble and Musical AI
-
-![align-center width:1000](img/caring-trouble-1.jpg)
-
-<small>Haraway, D. (2013). A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century. In The transgender studies reader (pp. 103–118). Routledge.</small>
 
 ---
 
@@ -735,15 +615,9 @@ We investigated whether large language models can translate structured game‑de
 
 #### Caring Trouble and Musical AI
 
-![align-center width:550](img/caring-trouble-3.png)
+![align-center width:1000](img/caring-trouble-1.jpg)
 
----
-
-#### Caring Trouble and Musical AI
-
-![align-center width:1000](img/caring-trouble-4.png)
-
-Analyzing: *Corpus Nil* by Marco Donnarumma; *Zizi Show* by Jake Elwes; *the machine is learning* by Marije Baalman; *Shimon* by Gil Weinberg et al. 
+<small>Haraway, D. (2013). A cyborg manifesto: Science, technology, and socialist-feminism in the late twentieth century. In The transgender studies reader (pp. 103–118). Routledge.</small>
 
 ---
 
@@ -798,12 +672,6 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 #### Expert Procrastinator's Tool: Artificial Intelligence (2023)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdf1uKzGYfs?si=2ffM-WlVKZgfJasB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
-#### Conceptual Pillars of Artistic Creativity
-
-![align-center width:1000](img/artwork-1.jpg)
 
 ---
 
