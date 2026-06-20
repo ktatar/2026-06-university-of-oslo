@@ -96,7 +96,7 @@ Interpolations in the latent space of the VAE
 
 <small>https://www.youtube.com/watch?v=-1XuXbX_VZo</small>
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/-1XuXbX_VZo?si=g7sQkcHFoc94XCwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/-1XuXbX_VZo?si=g7sQkcHFoc94XCwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -154,7 +154,7 @@ Emerging themes from the user study with 9 composers:
 
 #### Coding the Latent Artwork and RawAudio Variational Autoencoder 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rfq82eKE-34?si=b3xsvPWKXwDRp12e&amp;start=2810" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/rfq82eKE-34?si=b3xsvPWKXwDRp12e&amp;start=2810" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -346,7 +346,7 @@ Emerging themes from the user study with 9 composers:
 
 ![align-center width:1300](https://ktatar.github.io/rawmusicfromfreemovements/content/movement_audio.png)
 
-<small>Tatar, K., Cotton, K., Bisig, D. (2023). Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures. In Proceedings of Sound and Music Computing 2023. https://arxiv.org/pdf/2305.15571 </small>
+<small>Bisig D., Tatar, K. (2021). Raw Music from Free Movements: Early Experiments in Using Machine Learning to Create Raw Audio from Dance Movements. In Proceedings of AI Music Creativity Conference 2021. Best Paper Award.</small>
 
 ---
 
@@ -726,6 +726,7 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 ---
 
 #### Expert Procrastinator's Tool: Artificial Intelligence (2023)
+<small>https://www.youtube.com/watch?v=xdf1uKzGYfs</small>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdf1uKzGYfs?si=2ffM-WlVKZgfJasB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -769,15 +770,17 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 ---
 
 #### Exposing the Bias in Artificial Intelligence: The Cyber Future
+<small>https://www.youtube.com/watch?v=79gJtoeOhHE&source_ve_path=MTc4NDI0</small>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/79gJtoeOhHE?si=dHgWsZPMWFxTO_kt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Exposing the Bias in Artificial Intelligence: The Machine Lexicon
+<small>https://www.youtube.com/watch?v=RhOfPQJSrok&source_ve_path=MTc4NDI0</small>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RhOfPQJSrok?si=oXLhS4DY-nMmvASS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+ 
 ---
 
 #### Exposing the Bias in Artificial Intelligence: The Digital Assemblage
@@ -794,12 +797,29 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 
 ---
 
+<!-- _class: columns -->
+
+<div>
+
 ## Key Takeaways
 
 - Most musical AI research are often ad-hoc efforts.
 - NIME and DMI research still carry on the lineages of HCI. Music and arts research need its own lineage.
 - Technology is not neutral, it is situated in social and cultural contexts. 
 - It is time for artists and musicians to take on and lead the musical AI technology development.
+
+</div>
+<div>
+
+## Future is Bright!
+
+- Mathematics of Latent Audio Spaces
+- Establishing methods and frameworks for joint efforts in musical AI research
+- Moving machines as musical agents
+- Creativity beyond the material
+- New mixed research methods for analyzing demographic representations in generative AI
+
+</div>
 
 ---
 # Thank you! 
