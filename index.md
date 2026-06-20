@@ -96,7 +96,7 @@ Interpolations in the latent space of the VAE
 
 <small>https://www.youtube.com/watch?v=-1XuXbX_VZo</small>
 
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/-1XuXbX_VZo?si=g7sQkcHFoc94XCwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/-1XuXbX_VZo?si=g7sQkcHFoc94XCwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -154,7 +154,7 @@ Emerging themes from the user study with 9 composers:
 
 #### Coding the Latent Artwork and RawAudio Variational Autoencoder 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-1XuXbX_VZo?si=u0CdLJLc5uOHGg2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rfq82eKE-34?si=b3xsvPWKXwDRp12e&amp;start=2810" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -791,6 +791,15 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
 - Artworks
+
+---
+
+## Key Takeaways
+
+- Most musical AI research are often ad-hoc efforts.
+- NIME and DMI research still carry on the lineages of HCI. Music and arts research need its own lineage.
+- Technology is not neutral, it is situated in social and cultural contexts. 
+- It is time for artists and musicians to take on and lead the musical AI technology development.
 
 ---
 # Thank you! 
