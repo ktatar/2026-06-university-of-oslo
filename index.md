@@ -94,7 +94,11 @@ Interpolations in the latent space of the VAE
 
 #### Latent Timbre Synthesis
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rfq82eKE-34?si=1yz17QB_0yfCKHvS&amp;start=2160" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<small>https://www.youtube.com/watch?v=-1XuXbX_VZo</small>
+
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/-1XuXbX_VZo?si=g7sQkcHFoc94XCwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ---
 
@@ -705,8 +709,6 @@ Applying ARIA to a MusicLM-style musical audio generation model, embedding retri
 #### Case 2: Symbolic Music Generation with MusicTransformer
 
 All four reliability diagnostics rank attribution methods identically to LDS, supporting their use as a substitute signal where LDS is intractable.
-
-
 
 </div>
 
