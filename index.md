@@ -166,6 +166,10 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
+# <!--fit-->How do we make music with vast sound search spaces? 
+
+---
+
 #### RawAudio Variational Autoencoder
 
 ![align-center width:900](img/coding-the-latent-arc.jpg)
@@ -257,14 +261,6 @@ Emerging themes from the user study with 9 composers:
 
 <small>Examples of the use of transitions to navigate long distances. D2 used a meander transition in the middle of the piece to connect two sections; within a section, neighbouring states are connected using crossfades. A5 used a crossfade and a meander transition to navigate between two neighbourhoods in the cloud, each corresponding to a section in their piece. (a) Composition by D2 (detail), Sound_example_4.m4a in the sound material. (b) Composition by A5 (detail), Sound_example_5.m4a in the sound material.
 </small>
-
----
-
-#### Music Notation and Composition with Latent Spaces
-
-![align-center width:1200](img/meta-ben-6.png)
-
-<small>The space distribution of these two compositions gives information about how the sound evolves in time. While composer D3 created a gradual and constant evolution by navigating the whole point cloud using the meander transition, B3 was interested in exploring local variations and nuances. This difference can be seen by the fact that the viewpoint is zoomed far out in (a), while it is much closer to the cloud in (b).</small>
 
 ---
 
@@ -785,6 +781,10 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 
 #### Exposing the Bias in Artificial Intelligence: The Digital Assemblage
 
+<small>https://youtu.be/cODIggxDDv4</small>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cODIggxDDv4?si=llPwHGLB5BKKHJ27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## Research Themes
@@ -803,8 +803,9 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 
 ## Key Takeaways
 
+- How do we make music with vast sound search spaces?
 - Most musical AI research are often ad-hoc efforts.
-- NIME and DMI research still carry on the lineages of HCI. Music and arts research need its own lineage.
+- Music and arts research need its own lineage.
 - Technology is not neutral, it is situated in social and cultural contexts. 
 - It is time for artists and musicians to take on and lead the musical AI technology development.
 
@@ -813,7 +814,7 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 
 ## Future is Bright!
 
-- Mathematics of Latent Audio Spaces
+- Mathematics of Latent Audio Spaces for interactivity
 - Establishing methods and frameworks for joint efforts in musical AI research
 - Moving machines as musical agents
 - Creativity beyond the material
