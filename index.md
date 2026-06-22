@@ -807,7 +807,6 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 - Mathematics of Latent Audio Spaces for interactivity
 - Establishing methods and frameworks for joint efforts in musical AI research
 - Moving machines as musical agents
-- 
 - Creativity beyond the material
 - New mixed research methods for analyzing demographic representations in generative AI
 
