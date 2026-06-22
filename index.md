@@ -34,7 +34,6 @@ https://ktatar.github.io/2026-06-university-of-oslo</small>
 ## Research Themes
 
 - Deep Learning and Audio
-- Multimodal Deep Learning for Movement and Audio
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
 - Artworks
@@ -44,7 +43,6 @@ https://ktatar.github.io/2026-06-university-of-oslo</small>
 ## Research Themes
 
 - **Deep Learning and Audio**
-- Multimodal Deep Learning for Movement and Audio
 - AI in Computational Creativity and Game Design
 - Societal Impact of AI in Culture, Arts, and Music
 - Artworks
@@ -57,17 +55,21 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
-- Neuralacoustics
 - Music Notation and Composition with Latent Spaces
-
+- Neuralacoustics
+- ARIA: A Diagnostic Framework for Music Training Data Attribution
+- Neural Audio Instruments
+  
 ---
 
 ### Deep Learning and Audio
 
 - **Latent Timbre Synthesis**
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
-- Neuralacoustics
 - Music Notation and Composition with Latent Spaces
+- Neuralacoustics
+- ARIA: A Diagnostic Framework for Music Training Data Attribution
+- Neural Audio Instruments
 
 ---
 
@@ -147,8 +149,10 @@ Emerging themes from the user study with 9 composers:
 
 - Latent Timbre Synthesis
 - **Coding the Latent Artwork and RawAudio Variational Autoencoder**
-- Neuralacoustics
 - Music Notation and Composition with Latent Spaces
+- Neuralacoustics
+- ARIA: A Diagnostic Framework for Music Training Data Attribution
+- Neural Audio Instruments
 
 ---
 
@@ -186,39 +190,10 @@ Emerging themes from the user study with 9 composers:
 
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
-- **Neuralacoustics**
-- Music Notation and Composition with Latent Spaces
-
----
-
-#### Neuralacoustics
-
-![align-left width:450](img/neuralacoustics-1.png)
-
-![align-right width:700](img/neuralacoustics-4.png)
-
-<small>Chen, J., Tatar, K., & Zappi, V.. (2024). A Deep Learning Framework for Musical Acoustics Simulations. In Proceedings of the AI Music Creativity Conference. Oxford, London, September 2024. https://aimc2024.pubpub.org/pub/5cl1cvmy/release/1</small>
-
----
-
-#### Neuralacoustics
-
-![align-center width:750](img/neuralacoustics-3.png)
-
----
-
-#### Neuralacoustics
-
-![align-center width:500](img/neuralacoustics-2.png)
-
----
-
-### Deep Learning and Audio
-
-- Latent Timbre Synthesis
-- Coding the Latent Artwork and RawAudio Variational Autoencoder
-- Neuralacoustics
 - **Music Notation and Composition with Latent Spaces**
+- Neuralacoustics
+- ARIA: A Diagnostic Framework for Music Training Data Attribution
+- Neural Audio Instruments
 
 ---
 
@@ -297,65 +272,138 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
-## Research Themes
+### Deep Learning and Audio
 
-- Deep Learning and Audio
-- **Multimodal Deep Learning for Movement and Audio**
-- AI in Computational Creativity and Game Design
-- Societal Impact of AI in Culture, Arts, and Music
-
----
-
-### Multimodal Deep Learning for Movement and Audio
-
-- **Reinforcement Learning for Musical Performances with Moving Machines**
-- Raw Music from Free Movements
+- Latent Timbre Synthesis
+- Coding the Latent Artwork and RawAudio Variational Autoencoder
+- Music Notation and Composition with Latent Spaces
+- **Neuralacoustics**
+- ARIA: A Diagnostic Framework for Music Training Data Attribution
 - Neural Audio Instruments
 
 ---
 
-#### Reinforcement Learning for Musical Performances with Moving Machines
+#### Neuralacoustics
 
-![bg left width:500](img/ergo.webp)
+![align-left width:450](img/neuralacoustics-1.png)
 
-![align-center width:250](img/ergo-1.png)
+![align-right width:700](img/neuralacoustics-4.png)
 
-<small>Caravati, Matteo, Tatar, Kıvanç. (2024). Interfacing ErgoJr with Creative Coding Platforms. In Proceedings of the 9th International Conference on Movement and Computing. Utrecht, Netherlands, May 2024. https://dl.acm.org/doi/10.1145/3658852.3659082</small>
-
----
-
-![align-left width:500](img/ergo-2.png)
-
-![align-center width:400](img/ergo-3.png)
+<small>Chen, J., Tatar, K., & Zappi, V.. (2024). A Deep Learning Framework for Musical Acoustics Simulations. In Proceedings of the AI Music Creativity Conference. Oxford, London, September 2024. https://aimc2024.pubpub.org/pub/5cl1cvmy/release/1</small>
 
 ---
 
-### Multimodal Deep Learning for Movement and Audio
+#### Neuralacoustics
 
-- Reinforcement Learning for Musical Performances with Moving Machines
-- **Raw Music from Free Movements**
+![align-center width:750](img/neuralacoustics-3.png)
+
+---
+
+#### Neuralacoustics
+
+![align-center width:500](img/neuralacoustics-2.png)
+
+---
+
+### Deep Learning and Audio
+
+- Latent Timbre Synthesis
+- Coding the Latent Artwork and RawAudio Variational Autoencoder
+- Music Notation and Composition with Latent Spaces
+- Neuralacoustics
+- **ARIA: A Diagnostic Framework for Music Training Data Attribution**
 - Neural Audio Instruments
 
 ---
 
-#### Raw Music from Free Movements
+#### ARIA: A Diagnostic Framework for Music Training Data Attribution
 
-![align-center width:1300](https://ktatar.github.io/rawmusicfromfreemovements/content/movement_audio.png)
+Current training data attribution (TDA) provides a single scalar value to quantify the influence of each training example on a model’s prediction. 
 
-<small>Bisig D., Tatar, K. (2021). Raw Music from Free Movements: Early Experiments in Using Machine Learning to Create Raw Audio from Dance Movements. In Proceedings of AI Music Creativity Conference 2021. Best Paper Award.</small>
+Music generation and its copyright analysis two additional specifications: 
+
+1- **Which training data** (audio, music, composition etc.) influence a generated output
+2- Along **which musical aspects** the influence operates
+
+
+<small>Han, C., Panahi, A., & Tatar, K. (2026). ARIA: A Diagnostic Framework for Music Training Data Attribution. Submitted to NeurIPS 2026. https://arxiv.org/pdf/2605.16181 </small>
 
 ---
 
-#### Raw Music from Free Movements
+#### Recap: Datamodels
 
-![align-center width:900](img/ramfem-architecture.png)
+*How much does each individual training example influence the prediction on a new input?*
+
+![align-center width:1000](img/datamodels-2.png)
+
+<small>Ilyas, A., Park, S. M., Engstrom, L., Leclerc, G., & Madry, A. (2022). Datamodels: Predicting predictions from training data. Proceedings of the 39 th International Conference on Machine Learning, Baltimore, Maryland, USA, PMLR 162, 2022.</small>
 
 ---
 
-### Multimodal Deep Learning for Movement and Audio
+![align-center width:700](img/datamodels-1.png)
 
-- Reinforcement Learning for Musical Performances with Moving Machines
-- Raw Music from Free Movements
+<small>Ilyas, A., Park, S. M., Engstrom, L., Leclerc, G., & Madry, A. (2022). Datamodels: Predicting predictions from training data. Proceedings of the 39 th International Conference on Machine Learning, Baltimore, Maryland, USA, PMLR 162, 2022.</small>
+
+---
+
+#### ARIA: A Diagnostic Framework for Music Training Data Attribution
+
+Two structural limits of data attribution in music generation: 
+
+1- **Infeasibility of counterfactual retraining**: Conventional data attribution with retraining at the scale of musical audio generation models is computationally infeasible.
+2- **Music similarity is multidimensional**: Single scalar cannot support such evidence under the courts’ idea-expression distinction.
+
+These limits matter because, with music copyright lawsuits actively underway, attribution evidence linking model outputs to specific training data has become increasingly important.
+
+<small>Han, C., Panahi, A., & Tatar, K. (2026). ARIA: A Diagnostic Framework for Music Training Data Attribution. Submitted to NeurIPS 2026. https://arxiv.org/pdf/2605.16181 </small>
+
+---
+
+<!-- _class: columns -->
+
+<div>
+
+#### Case 1: Text-to-Audio Generation with Open-MusicLM
+
+MusicLM-style three-stage hierarchical musical audio generation model trained on FMA-Large. The hierarchical structure provides three independently attributable stages: **semantic, coarse, and fine**; each predicting a different token type from a different audio segment duration, which allows us to measure whether each stage’s attribution recovers a different musical aspect.
+
+</div>
+<div>
+
+#### Case 2: Symbolic Music Generation with MusicTransformer
+
+A pre-trained MusicTransformer on MAESTRO with an Linear Datamodeling Score (LDS) attribution as the ground truth, run four attribution evaluation methods: TRAK (10-ensemble), TracIn , GRAD-COS, and GradDot; through the ARIA's evaluation pipeline, obtaining score matrixes. We use the five jSymbolic 2.2 channels (melody, harmony, rhythm, dynamic, texture), extracted per training segment from the decoded MIDI.
+
+</div>
+
+---
+
+<!-- _class: columns -->
+
+<div>
+
+#### Case 1: Text-to-Audio Generation with Open-MusicLM
+
+Applying ARIA to a MusicLM-style musical audio generation model, embedding retrieval baselines diverge along the lines of each encoder’s pretraining objective, indicating that they report what the encoder represents rather than the influence of training data on the generative model.
+
+</div>
+<div>
+
+#### Case 2: Symbolic Music Generation with MusicTransformer
+
+All four reliability diagnostics rank attribution methods identically to LDS, supporting their use as a substitute signal where LDS is intractable.
+
+</div>
+
+---
+
+### Deep Learning and Audio
+
+- Latent Timbre Synthesis
+- Coding the Latent Artwork and RawAudio Variational Autoencoder
+- Music Notation and Composition with Latent Spaces
+- Neuralacoustics
+- ARIA: A Diagnostic Framework for Music Training Data Attribution
 - **Neural Audio Instruments**
 
 ---
@@ -425,8 +473,7 @@ The six takeaways from our conceptualization of neural audio instruments:
    
 - While research on explainable AI is undoubtedly worthwhile, non-explainability can play a significant role in the use and design of neural audio instruments.
 - Performers and even designers of neural audio systems may choose to focus on musical outcomes rather than dissecting every underlying process. 
-- Indeed, not all instrument designs are “predicated on the application of scientific knowledge” (Green, 2011) and a certain measure of “unknowing” can inspire extraordinary results. 
-- This notion also resonates with broader human-computer interaction discourse on the creative power of ignorance (Grammenos, 2014) (ranging from lack of preconceptions, to true ignorance), where “if you already know where you are going, you are not going someplace new.”
+
 
 ---
 
@@ -442,7 +489,6 @@ The six takeaways from our conceptualization of neural audio instruments:
 ## Research Themes
 
 - Deep Learning and Audio
-- Multimodal Deep Learning for Movement and Audio
 - **AI in Computational Creativity and Game Design**
 - Societal Impact of AI in Culture, Arts, and Music
 
@@ -451,17 +497,14 @@ The six takeaways from our conceptualization of neural audio instruments:
 ### AI in Computational Creativity and Game Design
 
 - Towards Computationally Creative Game Design
-- Grounding Machine Creativity in Game Design Knowledge Representations
+- LLM-Based Executable Synthesis of Goal Playable Game Design Patterns
 
 ---
 
-
 ### AI in Computational Creativity and Game Design
 
-- Understanding Co-Storytelling with Large Language Models (LLMs)
 - **Towards Computationally Creative Game Design**
-- AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
-- Grounding Machine Creativity in Game Design Knowledge Representations
+- LLM-Based Executable Synthesis of Goal Playable Game Design Patterns
 
 ---
 
@@ -519,10 +562,8 @@ Bjork, S., and Holopainen, J. 2005. Patterns in game design, volume 11. Charles 
 
 ### AI in Computational Creativity and Game Design
 
-- Understanding Co-Storytelling with Large Language Models (LLMs)
 - Towards Computationally Creative Game Design
-- AEGIS: Authentic Edge Growth In Sparsity for Link Prediction
-- **Grounding Machine Creativity in Game Design Knowledge Representations**
+- **LLM-Based Executable Synthesis of Goal Playable Game Design Patterns**
 
 ---
 
@@ -659,57 +700,6 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 ---
 
-#### ARIA: A Diagnostic Framework for Music Training Data Attribution
-
-Two structural limits of data attribution in music generation: 
-
-1- Counterfactual retraining at the scale of musical audio generation models is computationally infeasible since per-aspect ground truth is hard to construct
-2- single scalar cannot support such evidence under the courts’ idea-expression distinction, since music similarity is multidimensional.
-
-These limits matter because, with music copyright lawsuits actively underway, attribution evidence linking model outputs to specific training data has become increasingly important.
-
-<small>Han, C., Panahi, A., & Tatar, K. (2026). ARIA: A Diagnostic Framework for Music Training Data Attribution. Submitted to NeurIPS 2026. https://arxiv.org/pdf/2605.16181 </small>
-
----
-
-<!-- _class: columns -->
-
-<div>
-
-#### Case 1: Text-to-Audio Generation with Open-MusicLM
-
-MusicLM-style three-stage hierarchical musical audio generation model trained on FMA-Large. The hierarchical structure provides three independently attributable stages: semantic, coarse, and fine; each predicting a different token type from a different audio segment duration, which allows us to measure whether each stage’s attribution recovers a different musical aspect.
-
-</div>
-<div>
-
-#### Case 2: Symbolic Music Generation with MusicTransformer
-
-A pre-trained MusicTransformer on MAESTRO with an Linear Datamodeling Score (LDS) attribution as theground truth, run four attribution evaluation methods: TRAK (10-ensemble), TracIn , GRAD-COS, and GradDot; through the ARIA's evaluation pipeline, obtaining score matrixes. We use the five jSymbolic 2.2 channels (melody, harmony, rhythm, dynamic, texture), extracted per training segment from the decoded MIDI.
-
-</div>
-
----
-
-<!-- _class: columns -->
-
-<div>
-
-#### Case 1: Text-to-Audio Generation with Open-MusicLM
-
-Applying ARIA to a MusicLM-style musical audio generation model, embedding retrieval baselines diverge along the lines of each encoder’s pretraining objective, indicating that they report what the encoder represents rather than the influence of training data on the generative model.
-
-</div>
-<div>
-
-#### Case 2: Symbolic Music Generation with MusicTransformer
-
-All four reliability diagnostics rank attribution methods identically to LDS, supporting their use as a substitute signal where LDS is intractable.
-
-</div>
-
----
-
 ### Artworks
 
 - Expert Procrastinator's Tool: Artificial Intelligence (2023)
@@ -817,6 +807,7 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 - Mathematics of Latent Audio Spaces for interactivity
 - Establishing methods and frameworks for joint efforts in musical AI research
 - Moving machines as musical agents
+- 
 - Creativity beyond the material
 - New mixed research methods for analyzing demographic representations in generative AI
 
