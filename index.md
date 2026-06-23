@@ -54,8 +54,8 @@ https://ktatar.github.io/2026-06-university-of-oslo</small>
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
 - Music Notation and Composition with Latent Spaces
-- Neuralacoustics
 - ARIA: A Diagnostic Framework for Music Training Data Attribution
+- Neuralacoustics
 - Neural Audio Instruments
   
 ---
