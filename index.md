@@ -488,6 +488,7 @@ The six takeaways from our conceptualization of neural audio instruments:
 - Deep Learning and Audio
 - **AI in Computational Creativity and Game Design**
 - Societal Impact of AI in Culture, Arts, and Music
+- Artworks
 
 ---
 
@@ -623,7 +624,6 @@ Any LLM code-generation task targeting a domain-specific framework faces these t
 ## Research Themes
 
 - Deep Learning and Audio
-- Multimodal Deep Learning for Movement and Audio
 - AI in Computational Creativity and Game Design
 - **Societal Impact of AI in Culture, Arts, and Music**
 - Artworks
@@ -694,6 +694,15 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 - Integrating voice rights into personality rights frameworks
 - The data frameworks for voice should be designed to have direct connection to their source body
 - Similarity should be revisited, where nations take their own stances through democratic processes
+
+---
+
+## Research Themes
+
+- Deep Learning and Audio
+- AI in Computational Creativity and Game Design
+- Societal Impact of AI in Culture, Arts, and Music
+- **Artworks**
 
 ---
 
