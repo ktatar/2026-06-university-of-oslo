@@ -7,7 +7,7 @@ paginate: true
 
 <!-- footer: <small><i>Kıvanç Tatar, Associate Professor in Interactive AI</small></i> <p> ![width:350](chalmers-gu.png)</p> -->
 
-# Machine Learning and Artificial Intelligence Applied to Computational Arts, Music, and Games
+# Machine Learning and Artificial Intelligence in Computational Arts, Music, and Games
 
 <small> These slides are live at: 
 https://ktatar.github.io/2026-06-university-of-oslo</small>
@@ -51,8 +51,6 @@ https://ktatar.github.io/2026-06-university-of-oslo</small>
 
 ### Deep Learning and Audio
 
-Focuses on technical innovations in sound synthesis and modeling using deep learning:
-
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
 - Music Notation and Composition with Latent Spaces
@@ -67,8 +65,8 @@ Focuses on technical innovations in sound synthesis and modeling using deep lear
 - **Latent Timbre Synthesis**
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
 - Music Notation and Composition with Latent Spaces
-- Neuralacoustics
 - ARIA: A Diagnostic Framework for Music Training Data Attribution
+- Neuralacoustics
 - Neural Audio Instruments
 
 ---
@@ -99,8 +97,6 @@ Interpolations in the latent space of the VAE
 <small>https://www.youtube.com/watch?v=-1XuXbX_VZo</small>
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/-1XuXbX_VZo?si=g7sQkcHFoc94XCwM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 
 ---
 
@@ -150,8 +146,8 @@ Emerging themes from the user study with 9 composers:
 - Latent Timbre Synthesis
 - **Coding the Latent Artwork and RawAudio Variational Autoencoder**
 - Music Notation and Composition with Latent Spaces
-- Neuralacoustics
 - ARIA: A Diagnostic Framework for Music Training Data Attribution
+- Neuralacoustics
 - Neural Audio Instruments
 
 ---
@@ -162,15 +158,15 @@ Emerging themes from the user study with 9 composers:
 
 ---
 
+# <!--fit-->How do we make music with vast sound search spaces? 
+
+---
+
 #### RawAudio Variational Autoencoder
 
 ![align-center width:800](img/smc-poster-3-strategies.jpg)
 
 <small> K. Tatar, K. Cotton, and D. Bisig, “Sound Design Strategies for Latent Audio Space Explorations Using Deep Learning Architectures,” presented at the Proceedings of Sound and Music Computing 2023, 2023.</small>
-
----
-
-# <!--fit-->How do we make music with vast sound search spaces? 
 
 ---
 
@@ -191,8 +187,8 @@ Emerging themes from the user study with 9 composers:
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
 - **Music Notation and Composition with Latent Spaces**
-- Neuralacoustics
 - ARIA: A Diagnostic Framework for Music Training Data Attribution
+- Neuralacoustics
 - Neural Audio Instruments
 
 ---
@@ -240,7 +236,7 @@ Emerging themes from the user study with 9 composers:
 ---
 
 #### Music Notation and Composition with Latent Spaces
-
+<small>https://meta-benjolin.com/</small>
 <div
   style="
     width: 100%;
@@ -277,41 +273,8 @@ Emerging themes from the user study with 9 composers:
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
 - Music Notation and Composition with Latent Spaces
-- **Neuralacoustics**
-- ARIA: A Diagnostic Framework for Music Training Data Attribution
-- Neural Audio Instruments
-
----
-
-#### Neuralacoustics
-
-![align-left width:450](img/neuralacoustics-1.png)
-
-![align-right width:700](img/neuralacoustics-4.png)
-
-<small>Chen, J., Tatar, K., & Zappi, V.. (2024). A Deep Learning Framework for Musical Acoustics Simulations. In Proceedings of the AI Music Creativity Conference. Oxford, London, September 2024. https://aimc2024.pubpub.org/pub/5cl1cvmy/release/1</small>
-
----
-
-#### Neuralacoustics
-
-![align-center width:750](img/neuralacoustics-3.png)
-
----
-
-#### Neuralacoustics
-
-![align-center width:500](img/neuralacoustics-2.png)
-
----
-
-### Deep Learning and Audio
-
-- Latent Timbre Synthesis
-- Coding the Latent Artwork and RawAudio Variational Autoencoder
-- Music Notation and Composition with Latent Spaces
-- Neuralacoustics
 - **ARIA: A Diagnostic Framework for Music Training Data Attribution**
+- Neuralacoustics
 - Neural Audio Instruments
 
 ---
@@ -320,11 +283,10 @@ Emerging themes from the user study with 9 composers:
 
 Current training data attribution (TDA) provides a single scalar value to quantify the influence of each training example on a model’s prediction. 
 
-Music generation and its copyright analysis two additional specifications: 
+Music generation and its copyright analysis require two additional specifications: 
 
 1- **Which training data** (audio, music, composition etc.) influence a generated output
 2- Along **which musical aspects** the influence operates
-
 
 <small>Han, C., Panahi, A., & Tatar, K. (2026). ARIA: A Diagnostic Framework for Music Training Data Attribution. Submitted to NeurIPS 2026. https://arxiv.org/pdf/2605.16181 </small>
 
@@ -332,7 +294,7 @@ Music generation and its copyright analysis two additional specifications:
 
 #### Recap: Datamodels
 
-*How much does each individual training example influence the prediction on a new input?*
+*How much does each individual training data influence the prediction (or model output) with a new input?*
 
 ![align-center width:1000](img/datamodels-2.png)
 
@@ -393,6 +355,8 @@ Applying ARIA to a MusicLM-style musical audio generation model, embedding retri
 
 All four reliability diagnostics rank attribution methods identically to LDS, supporting their use as a substitute signal where LDS is intractable.
 
+<small>Han, C., Panahi, A., & Tatar, K. (2026). ARIA: A Diagnostic Framework for Music Training Data Attribution. Submitted to NeurIPS 2026. https://arxiv.org/pdf/2605.16181 </small>
+
 </div>
 
 ---
@@ -402,8 +366,41 @@ All four reliability diagnostics rank attribution methods identically to LDS, su
 - Latent Timbre Synthesis
 - Coding the Latent Artwork and RawAudio Variational Autoencoder
 - Music Notation and Composition with Latent Spaces
-- Neuralacoustics
 - ARIA: A Diagnostic Framework for Music Training Data Attribution
+- **Neuralacoustics**
+- Neural Audio Instruments
+
+---
+
+#### Neuralacoustics
+
+![align-left width:450](img/neuralacoustics-1.png)
+
+![align-right width:700](img/neuralacoustics-4.png)
+
+<small>Chen, J., Tatar, K., & Zappi, V.. (2024). A Deep Learning Framework for Musical Acoustics Simulations. In Proceedings of the AI Music Creativity Conference. Oxford, London, September 2024. https://aimc2024.pubpub.org/pub/5cl1cvmy/release/1</small>
+
+---
+
+#### Neuralacoustics
+
+![align-center width:750](img/neuralacoustics-3.png)
+
+---
+
+#### Neuralacoustics
+
+![align-center width:500](img/neuralacoustics-2.png)
+
+---
+
+### Deep Learning and Audio
+
+- Latent Timbre Synthesis
+- Coding the Latent Artwork and RawAudio Variational Autoencoder
+- Music Notation and Composition with Latent Spaces
+- ARIA: A Diagnostic Framework for Music Training Data Attribution
+- Neuralacoustics
 - **Neural Audio Instruments**
 
 ---
@@ -749,7 +746,7 @@ Apple has never confirmed, nor denied whether they utilised Bennett’s concaten
 
 ---
 
-#### Experiments with VQGAN Text-to-Image Synthesis
+#### Experiments with VQGAN Text-to-Image Synthesis (2021)
 
 <video controls src="best-to-worst.mp4" width="450"></video>
 
